@@ -1,14 +1,14 @@
-#Atlas
+#Atlas (aka 'The Cat')
 
-##Makers Academy Week 2 Test
+##Makers Academy | Week 2 | Challenge | Part II
 
+This repo contians the answer to __Week 2 Friday Challange (Part II)__ as part 
+of the course at [Makers Academy](http://www.makersacademy.com/).
 
-###Aim
+The aim of the exercise is to create a folder with a country that's not in the original 
+repo yet and add a file with its capital inside the folder.
 
-The aim of the exercise is to create a folder with a country that's not in repo yet and add a file with its capital inside the folder.
-
-###To do
-
+The guidelines for the challange:
 * Fork the repo
 * Clone your fork
 * Create an 'upstream' remote
@@ -19,5 +19,6 @@ The aim of the exercise is to create a folder with a country that's not in repo 
 
 ###Other details
 
-The test was set by Evgeny Shadchnev [@shadchnev](https://github.com/shadchnev) and Enrique Comba [@ecomba](https://github.com/ecomba)
+The test was set by Evgeny Shadchnev [@shadchnev](https://github.com/shadchnev) 
+and Enrique Comba [@ecomba](https://github.com/ecomba)
 
